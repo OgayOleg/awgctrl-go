@@ -1,4 +1,4 @@
-module github.com/slipynil/awgctrl-go
+module github.com/OgayOleg/awgctrl-go
 
 go 1.25.6
 
